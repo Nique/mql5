@@ -1,1 +1,1 @@
-# mql5
+# MetaQuotes Language Package (MQL5)
